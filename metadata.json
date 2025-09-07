@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Studio",
+  "description": "An AI-powered web development environment that generates and modifies multi-file code based on user prompts, featuring a file explorer and a live preview.",
+  "requestFramePermissions": []
+}
